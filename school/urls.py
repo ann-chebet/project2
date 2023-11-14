@@ -8,4 +8,5 @@ urlpatterns = [
     path('f2/', include("f2.urls")),
     path('f3/', include("f3.urls")),
     path('f4/', include("f4.urls"))
+]
 # branch2
